@@ -1,0 +1,1001 @@
+Asset_ID,Asset_Type,Asset_Value(in dollar),Location,Maintenance_Cost,Age,Compliance_Status,Cybersecurity_Score,Physical_Security_Score,Vendor_Risk_Score,Employee_Access_Level,Environmental_Risk,Previous_Incidents
+1,Router,19623,Office B,79906,0,1,100,2,55,User,3,1 (Malware)
+3,Router,16493,Data Center A,43539,0,1,95,97,0,User,1,0
+1,Router,63080,Network Room C,60899,9,1,38,10,30,Admin,2,2 (Data Breach)
+2,Laptop,62213,Data Center A,12279,6,1,0,9,7,Admin,2,1 (Malware)
+3,Router,11547,Network Room C,26422,8,0,28,12,59,User,1,1 (Malware)
+3,Router,85468,Network Room C,2621,6,0,73,19,31,User,3,2 (Data Breach)
+2,Router,47405,Data Center A,76445,2,0,69,15,4,User,1,0
+2,Server,53759,Data Center A,36632,6,0,100,43,82,Admin,1,2 (Data Breach)
+3,Router,24167,Network Room C,86397,3,1,35,60,85,User,1,1 (Malware)
+1,Router,62294,Network Room C,47033,0,1,69,61,15,User,3,3 (Physical Theft)
+2,Server,23476,Data Center A,99254,5,0,28,13,39,Admin,1,3 (Physical Theft)
+2,Server,53480,Network Room C,19877,1,1,36,20,60,User,2,2 (Data Breach)
+3,Server,98813,Data Center A,52628,6,0,94,81,60,User,2,1 (Malware)
+3,Router,88699,Data Center A,89346,10,1,0,67,71,User,2,0
+3,Router,11927,Data Center A,78355,1,0,20,5,28,User,2,3 (Physical Theft)
+2,Router,39612,Data Center A,63468,2,0,99,80,65,Admin,3,3 (Physical Theft)
+1,Router,67854,Network Room C,75020,2,1,41,26,16,Admin,3,2 (Data Breach)
+2,Laptop,44398,Data Center A,71758,5,1,84,26,18,Admin,2,2 (Data Breach)
+1,Router,31532,Data Center A,41635,3,0,70,36,51,User,2,1 (Malware)
+2,Router,91421,Data Center A,79143,2,0,44,79,96,Admin,3,1 (Malware)
+2,Laptop,74231,Office B,16,1,1,87,94,68,Admin,3,2 (Data Breach)
+1,Router,40778,Network Room C,53967,8,0,46,57,6,Admin,1,2 (Data Breach)
+2,Server,72480,Network Room C,65090,2,1,33,20,75,User,3,1 (Malware)
+2,Router,23760,Office B,31312,8,0,36,85,47,Admin,1,0
+3,Server,5286,Data Center A,58999,3,1,90,18,50,Admin,1,1 (Malware)
+2,Server,19664,Office B,88654,2,0,0,38,54,User,3,3 (Physical Theft)
+1,Laptop,81111,Office B,65099,10,1,58,51,99,Admin,2,1 (Malware)
+1,Router,36793,Network Room C,83558,6,1,0,26,84,User,3,0
+3,Router,358,Office B,22178,3,0,82,65,66,Admin,1,3 (Physical Theft)
+1,Server,36235,Office B,98544,8,0,21,14,32,User,3,2 (Data Breach)
+3,Laptop,50020,Network Room C,70027,1,0,65,10,41,User,1,0
+1,Router,45350,Data Center A,27412,10,1,3,15,5,Admin,3,0
+3,Laptop,85820,Network Room C,25487,7,0,91,41,60,Admin,2,1 (Malware)
+2,Router,96766,Network Room C,59109,9,0,66,80,86,User,1,1 (Malware)
+1,Router,74682,Data Center A,8166,2,1,95,95,59,User,2,0
+2,Router,38903,Office B,47641,8,0,15,92,31,User,2,3 (Physical Theft)
+3,Laptop,46839,Office B,45317,3,1,47,9,26,Admin,1,0
+1,Laptop,57353,Office B,79153,2,1,69,36,59,User,3,1 (Malware)
+2,Server,1150,Data Center A,37553,9,0,68,86,54,Admin,1,2 (Data Breach)
+3,Laptop,47402,Office B,35540,7,1,28,98,5,User,1,2 (Data Breach)
+2,Server,50069,Office B,14983,1,0,33,95,50,User,2,2 (Data Breach)
+2,Server,24124,Data Center A,23206,5,1,2,8,48,User,3,0
+1,Laptop,58433,Office B,11356,3,1,89,66,74,User,3,1 (Malware)
+3,Server,68418,Network Room C,18800,3,1,41,5,8,Admin,2,0
+3,Server,59950,Data Center A,23137,10,0,26,37,82,Admin,1,2 (Data Breach)
+3,Server,50678,Data Center A,6274,9,0,44,64,29,User,3,3 (Physical Theft)
+1,Router,23878,Office B,25053,7,1,55,15,70,User,1,1 (Malware)
+3,Server,81899,Network Room C,36735,7,0,84,10,71,User,1,2 (Data Breach)
+1,Router,51231,Network Room C,42494,8,1,95,98,52,User,2,2 (Data Breach)
+2,Laptop,63522,Data Center A,13738,6,1,51,44,32,User,1,1 (Malware)
+2,Server,99197,Network Room C,35456,4,0,30,6,20,User,3,0
+3,Laptop,99523,Network Room C,76074,6,0,55,3,100,Admin,1,3 (Physical Theft)
+2,Router,36718,Data Center A,62378,0,0,28,69,99,Admin,1,3 (Physical Theft)
+2,Router,47732,Network Room C,53266,5,0,2,53,45,User,1,0
+2,Router,50085,Office B,46127,2,0,78,39,85,Admin,2,3 (Physical Theft)
+3,Router,50347,Office B,30393,0,0,2,47,55,Admin,3,3 (Physical Theft)
+2,Router,6755,Data Center A,94358,3,1,57,36,98,User,3,1 (Malware)
+1,Laptop,62313,Network Room C,70407,10,1,32,44,18,Admin,1,1 (Malware)
+3,Router,51645,Office B,45613,1,0,0,28,26,Admin,3,1 (Malware)
+1,Router,31910,Data Center A,96130,6,0,32,63,54,Admin,3,1 (Malware)
+3,Server,32740,Data Center A,85866,8,0,5,62,25,User,1,3 (Physical Theft)
+2,Router,37800,Network Room C,35251,2,1,89,72,94,User,2,2 (Data Breach)
+2,Laptop,45611,Data Center A,32862,3,1,58,13,19,User,2,0
+1,Server,48720,Network Room C,59602,9,1,16,58,65,User,3,0
+1,Server,16434,Data Center A,81531,3,0,29,67,100,User,2,1 (Malware)
+3,Server,9197,Data Center A,6843,7,0,94,46,85,User,2,1 (Malware)
+3,Router,54755,Network Room C,28443,9,1,55,11,95,User,3,3 (Physical Theft)
+1,Server,13363,Network Room C,74483,9,1,15,53,47,User,3,2 (Data Breach)
+2,Server,35289,Network Room C,39813,7,1,93,18,4,Admin,3,1 (Malware)
+1,Router,35170,Office B,93735,6,0,36,43,4,Admin,3,1 (Malware)
+3,Laptop,90623,Data Center A,86442,6,0,63,50,84,Admin,2,2 (Data Breach)
+1,Router,7363,Data Center A,1387,2,1,23,56,15,User,1,0
+3,Server,92007,Data Center A,16084,4,1,95,38,62,User,1,1 (Malware)
+2,Router,57364,Office B,25288,9,1,68,71,28,User,3,2 (Data Breach)
+3,Laptop,21689,Office B,17778,1,0,71,63,90,Admin,3,3 (Physical Theft)
+1,Server,11857,Office B,22341,10,0,17,49,40,Admin,3,3 (Physical Theft)
+3,Router,76300,Network Room C,67165,8,0,68,74,96,Admin,1,1 (Malware)
+1,Server,8677,Data Center A,35293,7,0,83,17,5,Admin,1,0
+2,Server,45600,Data Center A,94502,1,0,100,44,39,Admin,1,1 (Malware)
+2,Laptop,26212,Office B,47802,5,0,85,5,92,Admin,1,1 (Malware)
+2,Laptop,3514,Network Room C,26679,3,0,74,82,100,User,3,2 (Data Breach)
+2,Laptop,81265,Data Center A,18357,0,0,19,41,93,User,2,3 (Physical Theft)
+2,Router,1160,Office B,21269,1,0,31,13,40,Admin,1,1 (Malware)
+2,Laptop,41808,Office B,56829,3,1,77,19,59,Admin,2,2 (Data Breach)
+2,Laptop,46078,Office B,29692,6,0,21,41,82,User,3,3 (Physical Theft)
+2,Server,63812,Office B,9000,2,1,19,1,39,Admin,3,2 (Data Breach)
+3,Router,23963,Data Center A,98384,10,1,32,78,38,User,3,0
+2,Laptop,66110,Network Room C,9671,4,1,83,17,67,User,1,3 (Physical Theft)
+1,Router,44383,Data Center A,14948,1,1,9,55,52,User,1,1 (Malware)
+3,Server,90839,Network Room C,73941,3,0,59,50,93,Admin,3,3 (Physical Theft)
+1,Laptop,20303,Data Center A,2926,5,1,47,82,57,Admin,3,2 (Data Breach)
+1,Server,28122,Network Room C,18083,5,1,17,55,63,Admin,2,2 (Data Breach)
+2,Router,49990,Data Center A,56015,4,0,71,58,36,User,3,3 (Physical Theft)
+3,Laptop,56912,Data Center A,85223,4,0,90,95,51,User,1,2 (Data Breach)
+1,Router,55609,Office B,51713,4,0,86,4,89,Admin,2,2 (Data Breach)
+3,Server,76173,Data Center A,76201,2,0,57,20,33,User,1,1 (Malware)
+3,Router,11123,Network Room C,15847,0,1,13,16,79,User,2,1 (Malware)
+1,Server,66482,Data Center A,55134,3,1,49,59,33,User,2,1 (Malware)
+2,Server,78418,Data Center A,23432,1,0,62,10,87,User,2,1 (Malware)
+2,Server,39367,Office B,78385,6,0,94,24,24,Admin,3,2 (Data Breach)
+1,Server,28580,Network Room C,53669,4,0,32,55,31,User,1,2 (Data Breach)
+1,Router,90012,Office B,78515,0,1,33,15,64,Admin,2,2 (Data Breach)
+1,Laptop,85273,Network Room C,44959,10,1,54,19,71,User,3,0
+3,Laptop,77453,Data Center A,55429,5,1,12,20,22,User,2,2 (Data Breach)
+2,Laptop,9777,Data Center A,94730,8,1,21,48,98,Admin,2,2 (Data Breach)
+3,Server,60754,Data Center A,85832,9,1,65,29,75,User,3,1 (Malware)
+1,Server,35872,Network Room C,61406,2,0,100,20,8,User,2,1 (Malware)
+2,Server,81764,Network Room C,69710,2,0,64,70,54,User,3,1 (Malware)
+1,Server,37260,Office B,9932,7,0,48,61,95,Admin,3,3 (Physical Theft)
+2,Laptop,13741,Data Center A,85503,2,0,40,25,2,User,2,1 (Malware)
+2,Laptop,71696,Network Room C,10864,7,1,37,16,87,Admin,1,0
+3,Server,88291,Office B,72889,8,0,47,5,10,User,1,3 (Physical Theft)
+1,Server,37650,Office B,98066,9,0,9,8,63,Admin,3,3 (Physical Theft)
+1,Laptop,99294,Office B,42464,6,0,58,66,82,Admin,3,3 (Physical Theft)
+3,Laptop,60143,Office B,94321,0,0,74,92,17,Admin,1,0
+1,Laptop,3148,Office B,54933,3,1,3,1,70,Admin,1,3 (Physical Theft)
+2,Server,26301,Office B,3309,10,1,22,58,81,Admin,2,3 (Physical Theft)
+1,Router,24388,Network Room C,75919,6,0,89,93,0,User,2,0
+1,Laptop,17393,Network Room C,16636,4,0,86,79,71,User,1,3 (Physical Theft)
+2,Router,59108,Office B,77980,6,0,97,88,12,User,3,1 (Malware)
+3,Server,75634,Office B,59451,2,1,79,87,55,Admin,3,0
+2,Laptop,37355,Office B,9023,5,0,52,41,61,User,3,2 (Data Breach)
+1,Router,114,Data Center A,76032,0,0,55,97,2,Admin,3,0
+3,Laptop,99250,Data Center A,4392,9,0,46,47,16,Admin,3,2 (Data Breach)
+1,Laptop,63000,Data Center A,78886,5,0,11,71,57,User,3,2 (Data Breach)
+2,Router,96481,Office B,96865,7,1,96,49,59,Admin,3,0
+1,Laptop,10126,Network Room C,40358,8,1,95,45,12,User,2,3 (Physical Theft)
+3,Router,34319,Office B,32811,2,1,56,7,57,Admin,1,1 (Malware)
+1,Router,90563,Network Room C,431,9,1,64,44,21,User,3,0
+2,Router,9039,Office B,32195,3,1,61,26,19,Admin,3,0
+1,Laptop,43573,Data Center A,59383,7,1,88,44,64,User,3,0
+1,Server,28314,Office B,15806,6,0,43,21,36,Admin,2,0
+1,Laptop,42158,Network Room C,50574,8,1,72,23,41,Admin,2,0
+2,Server,82024,Office B,68580,3,1,43,47,1,Admin,3,1 (Malware)
+2,Server,62603,Office B,56258,5,0,73,33,45,User,3,2 (Data Breach)
+1,Server,93276,Network Room C,79436,8,0,77,4,82,Admin,3,3 (Physical Theft)
+3,Laptop,48363,Data Center A,7648,0,0,18,88,83,User,2,0
+2,Server,66742,Data Center A,92576,7,0,9,68,98,Admin,3,2 (Data Breach)
+2,Server,50514,Network Room C,98810,5,1,3,41,33,Admin,3,0
+2,Server,74839,Data Center A,21328,3,1,50,62,73,Admin,3,3 (Physical Theft)
+3,Router,45749,Network Room C,50988,10,0,11,45,25,User,1,1 (Malware)
+3,Router,24551,Office B,16296,7,0,100,69,2,User,2,2 (Data Breach)
+2,Server,94140,Data Center A,81658,10,1,66,95,41,User,3,1 (Malware)
+1,Laptop,64377,Network Room C,94510,9,1,89,32,66,User,2,0
+2,Router,96455,Data Center A,40806,9,1,15,85,96,User,1,3 (Physical Theft)
+1,Server,12807,Network Room C,45268,7,0,33,53,34,User,1,3 (Physical Theft)
+2,Router,73496,Data Center A,77528,6,0,89,86,84,User,2,0
+2,Server,45380,Data Center A,17455,0,0,89,61,74,Admin,1,2 (Data Breach)
+1,Server,59299,Office B,1655,8,0,90,2,11,Admin,2,0
+3,Laptop,96347,Data Center A,62060,9,1,46,14,3,User,1,2 (Data Breach)
+2,Server,65783,Data Center A,89248,4,1,54,73,65,Admin,1,3 (Physical Theft)
+3,Laptop,59246,Data Center A,55273,4,0,100,69,44,Admin,2,1 (Malware)
+2,Laptop,47504,Office B,52943,9,1,11,83,17,User,2,0
+3,Router,5987,Office B,12080,3,1,24,44,28,Admin,2,2 (Data Breach)
+1,Laptop,67253,Office B,19492,4,1,10,94,15,Admin,1,3 (Physical Theft)
+3,Server,49989,Office B,30293,2,1,66,19,21,Admin,3,3 (Physical Theft)
+3,Router,30124,Network Room C,66979,4,1,8,27,30,Admin,1,3 (Physical Theft)
+3,Server,48219,Data Center A,82453,2,0,10,82,31,Admin,1,1 (Malware)
+2,Server,27172,Data Center A,8576,0,1,70,78,22,Admin,1,3 (Physical Theft)
+1,Router,33044,Network Room C,57077,1,1,35,3,97,Admin,1,1 (Malware)
+3,Server,73776,Office B,53314,7,1,55,81,46,Admin,2,0
+3,Server,52782,Data Center A,80706,0,0,49,88,39,Admin,2,0
+1,Router,86353,Network Room C,50977,0,1,66,14,99,User,2,1 (Malware)
+1,Server,8029,Data Center A,9221,1,0,39,90,100,User,3,2 (Data Breach)
+2,Laptop,8223,Data Center A,82571,2,1,28,56,57,Admin,3,3 (Physical Theft)
+1,Server,52757,Data Center A,50831,3,0,100,44,14,Admin,1,2 (Data Breach)
+3,Server,86083,Network Room C,8628,0,0,39,77,32,Admin,1,2 (Data Breach)
+3,Laptop,71737,Network Room C,53232,4,1,60,83,63,User,1,2 (Data Breach)
+3,Laptop,43214,Data Center A,39588,7,1,13,81,15,Admin,1,1 (Malware)
+1,Router,90746,Data Center A,62261,0,1,43,1,95,Admin,1,1 (Malware)
+1,Server,85609,Office B,90830,9,0,80,21,0,Admin,1,3 (Physical Theft)
+2,Laptop,4824,Network Room C,47954,1,0,37,49,41,Admin,2,3 (Physical Theft)
+1,Router,88723,Data Center A,2056,5,1,28,80,6,User,1,0
+2,Server,37386,Data Center A,34229,2,1,33,91,4,User,2,3 (Physical Theft)
+3,Laptop,67990,Network Room C,63466,1,0,72,26,20,User,3,2 (Data Breach)
+1,Server,65271,Network Room C,17909,8,0,70,95,19,User,1,0
+3,Router,32099,Office B,45007,8,1,40,22,24,User,3,0
+3,Laptop,21682,Network Room C,21008,9,1,85,90,64,User,2,1 (Malware)
+2,Laptop,52696,Network Room C,57349,6,1,67,80,28,Admin,2,1 (Malware)
+2,Server,43691,Network Room C,33752,7,0,73,5,3,Admin,2,2 (Data Breach)
+3,Server,82351,Office B,11463,2,1,54,66,79,Admin,3,1 (Malware)
+3,Router,6530,Network Room C,97649,2,0,60,4,76,User,3,2 (Data Breach)
+1,Router,88653,Network Room C,10523,1,1,48,65,32,Admin,2,1 (Malware)
+1,Server,81113,Network Room C,58726,3,1,84,77,82,Admin,1,1 (Malware)
+1,Server,93114,Network Room C,96265,5,1,93,39,17,Admin,3,3 (Physical Theft)
+2,Server,11336,Data Center A,3001,3,0,57,2,78,User,3,2 (Data Breach)
+3,Server,31051,Network Room C,9152,1,0,75,98,24,Admin,2,2 (Data Breach)
+3,Router,56632,Office B,70530,7,1,8,13,96,Admin,1,0
+3,Server,81955,Data Center A,13165,8,0,81,87,36,User,1,0
+1,Laptop,78775,Network Room C,37864,6,0,54,70,91,Admin,2,3 (Physical Theft)
+2,Router,81634,Data Center A,17074,7,1,88,50,30,User,1,2 (Data Breach)
+3,Router,57845,Network Room C,7620,10,0,21,73,47,Admin,2,0
+2,Server,36699,Network Room C,77992,4,0,65,77,93,User,2,1 (Malware)
+2,Laptop,81379,Office B,69688,2,1,28,29,11,User,1,1 (Malware)
+2,Server,55960,Office B,71048,4,0,10,47,9,Admin,1,1 (Malware)
+2,Router,89033,Office B,73689,10,1,68,53,10,User,1,0
+3,Laptop,44679,Data Center A,20759,0,1,5,98,70,User,1,2 (Data Breach)
+1,Laptop,44843,Office B,10324,6,0,25,27,27,Admin,3,0
+3,Server,24405,Network Room C,35976,1,1,83,72,83,User,2,2 (Data Breach)
+3,Laptop,67421,Network Room C,58459,7,1,49,77,14,User,3,3 (Physical Theft)
+3,Router,63392,Data Center A,5179,7,1,64,55,23,User,3,1 (Malware)
+2,Router,5839,Network Room C,26745,1,1,1,37,65,Admin,3,2 (Data Breach)
+2,Server,80423,Office B,30606,10,1,59,52,66,Admin,2,3 (Physical Theft)
+2,Router,14180,Office B,14792,6,0,26,18,46,User,2,3 (Physical Theft)
+2,Server,83287,Office B,80377,0,1,79,35,60,Admin,3,0
+3,Router,3743,Data Center A,82542,3,0,9,3,67,User,2,2 (Data Breach)
+2,Server,41383,Office B,51386,4,1,70,39,94,User,1,2 (Data Breach)
+1,Laptop,94193,Data Center A,55158,4,0,64,65,68,User,2,3 (Physical Theft)
+3,Server,96121,Network Room C,54989,4,0,5,8,2,User,3,2 (Data Breach)
+3,Router,39481,Network Room C,28420,6,1,63,13,93,User,3,0
+1,Server,1916,Data Center A,47857,1,1,77,55,18,Admin,3,3 (Physical Theft)
+1,Server,43878,Data Center A,64770,1,0,6,94,48,Admin,3,2 (Data Breach)
+1,Laptop,77142,Office B,56533,8,0,71,50,34,User,1,3 (Physical Theft)
+1,Server,72633,Network Room C,982,5,0,51,72,6,Admin,3,0
+2,Router,22864,Network Room C,95110,0,0,21,11,26,Admin,1,2 (Data Breach)
+2,Router,22282,Data Center A,77453,4,1,11,49,50,Admin,1,1 (Malware)
+3,Router,26727,Data Center A,37983,5,0,55,67,70,Admin,3,0
+3,Router,8084,Data Center A,83862,2,1,79,59,73,User,3,0
+2,Laptop,75413,Data Center A,79619,6,1,45,96,26,Admin,1,3 (Physical Theft)
+1,Server,86387,Network Room C,12300,5,1,95,97,2,Admin,3,2 (Data Breach)
+1,Router,24171,Office B,52042,7,0,81,4,82,Admin,2,3 (Physical Theft)
+1,Router,6505,Data Center A,7341,0,0,52,17,76,Admin,3,2 (Data Breach)
+3,Laptop,10787,Office B,4777,1,0,5,20,63,Admin,3,0
+3,Laptop,1068,Network Room C,19809,2,0,24,5,39,Admin,3,3 (Physical Theft)
+2,Router,49272,Data Center A,8550,8,1,17,42,91,Admin,3,1 (Malware)
+1,Laptop,33192,Network Room C,75652,4,1,68,19,12,User,2,0
+3,Router,76039,Data Center A,5624,6,0,6,95,19,Admin,1,3 (Physical Theft)
+1,Laptop,48101,Office B,67844,5,1,23,10,91,Admin,2,2 (Data Breach)
+1,Server,94844,Data Center A,14387,5,1,39,100,10,User,1,0
+3,Server,71436,Data Center A,44064,9,1,77,9,95,User,2,1 (Malware)
+2,Server,6168,Network Room C,40702,6,0,10,99,81,User,3,0
+3,Server,24562,Office B,21239,8,1,51,43,7,Admin,2,1 (Malware)
+3,Router,13524,Office B,68243,1,1,13,27,70,Admin,2,0
+1,Server,62758,Office B,80757,7,1,7,86,79,User,2,2 (Data Breach)
+3,Router,46080,Network Room C,36790,9,0,37,43,77,Admin,3,1 (Malware)
+3,Router,59518,Network Room C,20605,0,0,13,21,91,User,2,1 (Malware)
+3,Router,73338,Office B,5812,10,0,34,6,47,User,1,2 (Data Breach)
+1,Server,43582,Network Room C,27317,10,1,11,18,40,User,1,1 (Malware)
+3,Router,27895,Office B,30471,1,0,27,70,100,User,1,3 (Physical Theft)
+3,Laptop,39649,Network Room C,11883,2,0,67,16,69,Admin,1,0
+1,Server,81460,Office B,2162,7,1,46,49,35,Admin,3,0
+2,Router,71066,Office B,8288,9,0,49,29,58,User,3,3 (Physical Theft)
+3,Laptop,93386,Data Center A,15477,8,0,55,18,60,User,3,2 (Data Breach)
+1,Router,47197,Network Room C,45423,7,1,65,14,46,Admin,3,0
+1,Laptop,29217,Network Room C,58689,6,0,22,70,88,Admin,1,3 (Physical Theft)
+1,Router,91114,Data Center A,78422,2,0,22,80,98,Admin,2,3 (Physical Theft)
+2,Router,67937,Network Room C,6780,3,1,67,69,67,User,2,0
+1,Laptop,82722,Network Room C,51350,5,1,86,19,33,User,2,2 (Data Breach)
+2,Laptop,36539,Office B,44764,6,0,53,37,56,User,3,0
+1,Laptop,5099,Network Room C,56174,3,1,22,13,78,User,2,2 (Data Breach)
+1,Server,35553,Data Center A,85613,3,1,96,68,44,Admin,2,2 (Data Breach)
+2,Laptop,25163,Office B,59339,4,1,76,4,69,User,3,0
+3,Router,85390,Network Room C,69265,3,1,75,23,37,User,1,3 (Physical Theft)
+3,Router,87501,Office B,59713,9,0,46,93,5,Admin,3,3 (Physical Theft)
+1,Laptop,88284,Network Room C,98730,5,1,43,13,69,Admin,1,1 (Malware)
+1,Laptop,23173,Office B,35956,6,1,4,96,47,Admin,3,2 (Data Breach)
+3,Router,17788,Data Center A,32181,0,0,81,34,92,User,3,1 (Malware)
+3,Laptop,53812,Office B,6183,1,0,17,4,40,Admin,3,2 (Data Breach)
+1,Laptop,58110,Data Center A,89956,4,1,13,66,60,Admin,2,0
+1,Laptop,58021,Network Room C,55963,6,0,63,47,99,User,2,1 (Malware)
+1,Laptop,77159,Network Room C,61483,7,0,11,4,60,Admin,1,0
+3,Laptop,7295,Office B,96663,6,1,54,74,18,Admin,3,1 (Malware)
+3,Laptop,41090,Network Room C,35964,4,0,39,51,36,Admin,1,0
+1,Router,36893,Data Center A,92730,4,1,36,7,49,User,1,1 (Malware)
+3,Laptop,62624,Network Room C,79159,0,0,55,50,100,Admin,2,2 (Data Breach)
+3,Router,20825,Data Center A,95344,5,1,50,41,50,User,1,2 (Data Breach)
+3,Server,44077,Network Room C,81365,0,0,13,39,75,User,1,0
+1,Server,2101,Data Center A,41901,1,0,27,11,64,Admin,3,2 (Data Breach)
+1,Server,60505,Data Center A,14131,4,0,0,17,76,Admin,1,1 (Malware)
+1,Server,57296,Data Center A,54152,5,0,90,17,2,User,1,3 (Physical Theft)
+1,Server,35337,Network Room C,26552,9,0,62,29,94,Admin,3,2 (Data Breach)
+1,Laptop,59981,Office B,49292,7,1,33,7,45,User,1,2 (Data Breach)
+3,Laptop,41338,Network Room C,15580,6,1,24,8,95,User,3,0
+3,Router,94131,Network Room C,97833,2,1,66,11,24,User,3,2 (Data Breach)
+3,Router,41482,Data Center A,31296,1,0,42,37,61,User,3,0
+1,Laptop,68139,Network Room C,31553,0,0,88,9,52,Admin,3,0
+3,Router,83754,Network Room C,21694,8,1,72,28,30,User,3,3 (Physical Theft)
+3,Router,87203,Office B,45874,8,1,25,70,96,User,3,2 (Data Breach)
+2,Router,64109,Data Center A,50794,7,1,15,98,92,User,2,1 (Malware)
+2,Router,5158,Data Center A,37598,6,1,90,39,22,User,1,1 (Malware)
+3,Laptop,4881,Data Center A,60192,7,1,72,57,47,User,1,2 (Data Breach)
+1,Router,61612,Data Center A,89798,6,1,45,84,20,Admin,3,3 (Physical Theft)
+1,Router,41016,Office B,30451,5,1,0,77,43,Admin,2,0
+2,Router,13059,Network Room C,30097,2,1,9,53,98,User,2,0
+3,Server,14034,Office B,70954,4,0,65,10,47,Admin,1,1 (Malware)
+2,Server,43730,Office B,82133,2,0,14,1,79,User,1,0
+3,Laptop,60585,Network Room C,87275,5,0,88,78,66,Admin,3,3 (Physical Theft)
+3,Server,48557,Data Center A,67122,8,1,69,37,2,User,1,2 (Data Breach)
+1,Laptop,62388,Network Room C,94812,6,0,6,45,11,Admin,3,3 (Physical Theft)
+3,Router,75277,Data Center A,15642,2,1,83,44,67,Admin,3,0
+1,Laptop,20662,Office B,1038,10,0,59,94,40,User,1,1 (Malware)
+2,Router,74407,Office B,45782,2,1,40,98,43,User,1,2 (Data Breach)
+1,Laptop,62903,Data Center A,13104,1,0,68,19,22,User,3,1 (Malware)
+2,Laptop,68203,Data Center A,3526,2,0,27,56,36,User,2,1 (Malware)
+1,Laptop,90328,Office B,56300,5,0,61,5,19,Admin,2,1 (Malware)
+3,Laptop,45605,Data Center A,564,5,1,71,59,8,User,2,1 (Malware)
+3,Server,5448,Network Room C,90024,6,1,30,22,22,User,1,2 (Data Breach)
+1,Laptop,59974,Office B,5473,2,0,75,37,43,Admin,3,2 (Data Breach)
+3,Server,57758,Network Room C,43435,9,1,42,82,21,User,2,2 (Data Breach)
+2,Laptop,8943,Data Center A,19757,9,1,73,38,82,Admin,1,3 (Physical Theft)
+2,Laptop,29157,Network Room C,2811,5,1,62,23,21,User,3,3 (Physical Theft)
+2,Server,26935,Data Center A,37482,5,1,94,10,5,User,3,1 (Malware)
+1,Router,59130,Network Room C,58881,2,0,67,8,20,User,3,3 (Physical Theft)
+1,Server,68192,Data Center A,59081,1,0,36,84,50,Admin,1,1 (Malware)
+3,Server,26102,Data Center A,96877,7,1,58,73,34,Admin,3,1 (Malware)
+1,Router,4650,Office B,25095,9,0,25,24,19,Admin,3,2 (Data Breach)
+2,Laptop,69443,Data Center A,4270,2,0,91,100,28,Admin,3,3 (Physical Theft)
+3,Router,46358,Network Room C,64250,5,0,58,40,56,User,1,0
+3,Server,94835,Data Center A,2799,4,1,75,74,7,Admin,3,1 (Malware)
+1,Router,18490,Network Room C,77969,3,0,25,91,31,Admin,2,1 (Malware)
+3,Router,77390,Network Room C,29184,2,1,59,28,25,User,1,2 (Data Breach)
+2,Server,59454,Data Center A,50564,8,1,54,43,31,Admin,3,0
+1,Server,50364,Data Center A,66413,1,1,90,85,7,Admin,2,1 (Malware)
+3,Server,95014,Data Center A,88772,2,1,80,30,71,User,3,2 (Data Breach)
+3,Router,78730,Office B,43045,5,0,88,57,49,User,2,3 (Physical Theft)
+3,Router,25195,Office B,98150,6,0,57,61,6,User,3,1 (Malware)
+2,Server,20526,Data Center A,70666,7,0,76,59,74,User,2,1 (Malware)
+1,Laptop,29537,Network Room C,23448,6,1,71,31,10,Admin,3,1 (Malware)
+1,Router,69845,Network Room C,81188,9,1,92,36,23,Admin,1,3 (Physical Theft)
+1,Laptop,27317,Network Room C,88003,9,1,7,60,3,User,3,2 (Data Breach)
+2,Router,99046,Data Center A,65504,6,0,0,84,38,User,1,2 (Data Breach)
+3,Server,60586,Office B,31001,3,0,1,12,26,User,2,1 (Malware)
+2,Laptop,52010,Network Room C,74048,10,1,19,27,1,User,2,2 (Data Breach)
+1,Server,91625,Data Center A,27013,4,0,39,49,2,User,3,0
+2,Router,58298,Office B,18921,8,1,64,37,6,User,1,3 (Physical Theft)
+3,Server,29025,Network Room C,66054,8,0,90,100,3,User,2,2 (Data Breach)
+3,Server,1194,Network Room C,69621,0,1,85,75,48,User,1,1 (Malware)
+1,Router,63063,Data Center A,3929,10,1,92,17,63,Admin,3,3 (Physical Theft)
+3,Server,73610,Office B,70111,9,0,27,96,16,Admin,1,3 (Physical Theft)
+1,Server,44112,Network Room C,30923,2,0,51,24,47,User,2,0
+3,Server,12830,Data Center A,87939,2,0,61,60,17,User,1,1 (Malware)
+2,Server,95713,Network Room C,29492,9,0,97,89,35,User,1,1 (Malware)
+2,Router,40806,Network Room C,77205,5,1,32,92,92,User,3,1 (Malware)
+1,Laptop,99860,Office B,39779,10,0,13,37,38,Admin,2,0
+2,Server,72269,Data Center A,49318,2,1,14,27,62,Admin,2,1 (Malware)
+3,Laptop,21034,Data Center A,25045,8,0,97,7,4,Admin,2,0
+3,Server,89863,Office B,97859,10,0,22,42,58,User,3,3 (Physical Theft)
+1,Server,70807,Network Room C,32631,1,1,97,89,12,Admin,2,3 (Physical Theft)
+3,Router,72319,Network Room C,76426,7,1,42,55,2,User,2,2 (Data Breach)
+2,Router,60746,Data Center A,32851,2,1,84,76,28,User,3,2 (Data Breach)
+1,Server,78789,Office B,45026,9,1,84,29,6,Admin,1,1 (Malware)
+3,Server,29807,Data Center A,75316,3,0,7,85,56,Admin,1,3 (Physical Theft)
+1,Laptop,66291,Data Center A,31412,5,0,28,86,8,User,2,0
+1,Router,88228,Data Center A,53184,0,1,70,35,47,Admin,3,0
+1,Laptop,18145,Office B,57044,0,1,41,99,46,User,2,1 (Malware)
+1,Router,18010,Data Center A,28441,4,0,72,10,31,User,3,1 (Malware)
+3,Router,22634,Network Room C,3831,8,0,17,26,88,Admin,1,2 (Data Breach)
+3,Server,37963,Network Room C,83688,5,0,73,9,37,User,1,1 (Malware)
+3,Server,39106,Data Center A,66040,2,0,81,6,11,Admin,1,2 (Data Breach)
+1,Router,35904,Office B,21164,3,0,78,50,68,User,1,3 (Physical Theft)
+3,Router,59177,Data Center A,25007,7,0,59,74,88,User,2,1 (Malware)
+2,Router,80731,Office B,39911,5,0,94,16,53,Admin,1,3 (Physical Theft)
+2,Router,86033,Office B,81928,7,1,15,60,89,User,3,1 (Malware)
+3,Router,7184,Network Room C,6400,0,1,72,85,73,User,2,1 (Malware)
+1,Laptop,30201,Network Room C,17270,3,1,47,5,8,Admin,2,2 (Data Breach)
+2,Laptop,79912,Office B,29931,5,0,86,70,94,User,1,2 (Data Breach)
+1,Server,21096,Data Center A,47520,6,0,60,77,99,User,1,2 (Data Breach)
+2,Router,42063,Network Room C,87971,1,1,43,81,99,Admin,1,2 (Data Breach)
+3,Laptop,81019,Office B,95320,8,1,58,54,17,User,1,2 (Data Breach)
+1,Router,52979,Data Center A,36378,1,1,12,56,72,User,2,2 (Data Breach)
+3,Server,71278,Office B,37900,4,0,56,77,62,Admin,3,0
+1,Laptop,86598,Office B,56004,7,0,71,50,0,Admin,1,2 (Data Breach)
+3,Laptop,75353,Data Center A,99386,3,1,30,48,92,User,1,2 (Data Breach)
+2,Router,37212,Network Room C,35760,7,1,68,4,39,Admin,1,2 (Data Breach)
+1,Router,62271,Data Center A,88936,10,0,93,50,72,User,2,0
+2,Router,28124,Data Center A,3596,8,1,17,46,14,Admin,1,1 (Malware)
+3,Server,30747,Data Center A,54702,1,1,34,58,10,Admin,3,1 (Malware)
+1,Router,50375,Office B,27631,7,1,86,6,24,User,1,2 (Data Breach)
+2,Server,84168,Network Room C,43142,4,0,62,52,23,User,1,3 (Physical Theft)
+3,Server,2168,Office B,34822,5,0,11,91,49,Admin,3,1 (Malware)
+2,Router,54926,Network Room C,16872,10,0,3,65,53,Admin,1,2 (Data Breach)
+1,Router,62641,Network Room C,17162,8,0,89,60,52,Admin,3,0
+1,Router,8501,Data Center A,33935,1,1,41,19,78,User,3,3 (Physical Theft)
+2,Laptop,83438,Office B,48468,4,1,9,93,63,Admin,1,1 (Malware)
+2,Laptop,88628,Network Room C,84920,4,1,21,32,83,Admin,1,1 (Malware)
+2,Laptop,9342,Data Center A,52536,5,0,49,30,69,Admin,1,3 (Physical Theft)
+1,Server,98292,Office B,7858,6,0,28,34,15,Admin,1,3 (Physical Theft)
+3,Laptop,3437,Office B,85599,0,0,52,56,90,Admin,1,2 (Data Breach)
+3,Server,15926,Data Center A,43658,1,1,89,72,66,Admin,1,3 (Physical Theft)
+2,Router,9398,Network Room C,2864,7,0,84,42,100,Admin,3,2 (Data Breach)
+2,Server,62842,Data Center A,41809,3,0,77,54,41,Admin,1,2 (Data Breach)
+1,Laptop,86490,Network Room C,27663,1,1,11,76,30,User,3,0
+1,Laptop,33742,Data Center A,76730,10,1,19,12,18,Admin,1,1 (Malware)
+1,Server,4626,Data Center A,76945,0,0,87,14,21,Admin,2,2 (Data Breach)
+1,Laptop,1828,Network Room C,28754,6,1,42,97,39,Admin,3,1 (Malware)
+3,Laptop,74254,Office B,58473,0,0,91,55,51,User,1,3 (Physical Theft)
+1,Laptop,77713,Data Center A,65588,0,1,67,31,92,Admin,1,1 (Malware)
+2,Laptop,40736,Data Center A,56217,6,0,20,82,59,User,3,3 (Physical Theft)
+3,Server,28807,Network Room C,88981,9,1,24,1,67,Admin,3,2 (Data Breach)
+2,Laptop,86044,Office B,94430,7,0,2,67,90,Admin,1,3 (Physical Theft)
+1,Laptop,50657,Network Room C,56564,3,0,6,14,19,Admin,2,2 (Data Breach)
+1,Laptop,55426,Office B,41822,2,0,28,40,60,User,3,2 (Data Breach)
+2,Laptop,57901,Data Center A,16056,0,1,74,28,89,User,2,2 (Data Breach)
+1,Server,55263,Data Center A,40234,9,0,52,33,84,User,2,1 (Malware)
+1,Server,20097,Office B,15010,7,1,90,23,8,User,3,1 (Malware)
+3,Laptop,84032,Office B,64067,4,0,87,73,25,Admin,2,3 (Physical Theft)
+2,Router,51179,Data Center A,78289,1,1,31,12,91,User,3,3 (Physical Theft)
+3,Laptop,76879,Office B,42328,2,0,48,85,18,User,2,0
+2,Laptop,85084,Network Room C,90944,4,1,45,14,57,Admin,3,3 (Physical Theft)
+1,Router,74575,Data Center A,32139,8,1,95,38,45,User,1,1 (Malware)
+3,Laptop,26722,Network Room C,70050,3,1,48,35,30,Admin,2,2 (Data Breach)
+2,Router,83672,Network Room C,74986,9,0,73,27,78,User,1,2 (Data Breach)
+1,Server,70680,Office B,50081,2,1,76,9,7,User,2,1 (Malware)
+1,Server,55404,Data Center A,10009,8,0,34,77,63,Admin,3,3 (Physical Theft)
+2,Server,9217,Network Room C,21477,1,0,4,77,89,Admin,1,3 (Physical Theft)
+2,Server,74068,Network Room C,66874,2,1,53,65,11,User,3,0
+2,Laptop,26268,Data Center A,97429,3,0,95,65,45,User,1,1 (Malware)
+1,Router,92544,Office B,69257,7,1,28,79,6,Admin,1,3 (Physical Theft)
+1,Server,42027,Data Center A,56145,7,1,66,92,2,User,2,0
+2,Laptop,92746,Office B,73752,6,0,90,8,27,User,1,1 (Malware)
+3,Server,5677,Data Center A,37698,0,1,63,66,91,User,1,2 (Data Breach)
+3,Router,67050,Office B,26677,1,1,61,80,61,Admin,1,2 (Data Breach)
+2,Server,28266,Network Room C,8923,10,0,34,48,90,Admin,3,2 (Data Breach)
+2,Laptop,59496,Office B,86829,2,1,70,61,6,User,2,2 (Data Breach)
+3,Laptop,72944,Office B,70453,5,0,26,6,73,Admin,1,1 (Malware)
+3,Router,57540,Office B,26801,9,0,7,35,4,Admin,2,0
+3,Server,51833,Data Center A,71201,4,1,27,69,26,Admin,3,3 (Physical Theft)
+3,Server,51624,Office B,2499,4,1,80,30,66,Admin,3,3 (Physical Theft)
+1,Laptop,88994,Data Center A,63689,2,0,0,60,50,User,2,0
+1,Router,67015,Network Room C,26824,4,1,36,10,96,Admin,3,2 (Data Breach)
+3,Laptop,57230,Network Room C,92810,7,1,6,81,69,User,2,1 (Malware)
+3,Server,60831,Network Room C,85710,6,0,34,66,4,User,2,2 (Data Breach)
+2,Laptop,14295,Network Room C,69223,6,0,43,91,61,User,2,2 (Data Breach)
+3,Router,10346,Data Center A,7965,0,1,88,53,64,Admin,3,1 (Malware)
+1,Server,70265,Office B,64217,10,1,85,95,30,User,1,1 (Malware)
+1,Router,65012,Office B,53875,3,0,54,10,74,Admin,1,3 (Physical Theft)
+3,Server,80153,Network Room C,595,5,1,99,94,14,User,2,2 (Data Breach)
+3,Router,66066,Network Room C,11457,8,1,39,5,100,User,3,0
+1,Laptop,90894,Data Center A,35731,5,1,100,54,36,Admin,1,3 (Physical Theft)
+3,Router,26679,Office B,36690,7,1,9,87,50,User,1,1 (Malware)
+1,Server,38063,Office B,79529,5,0,48,3,79,Admin,2,2 (Data Breach)
+2,Server,4984,Network Room C,20450,3,0,80,44,43,User,2,1 (Malware)
+3,Router,42708,Data Center A,97346,9,1,49,56,32,Admin,3,3 (Physical Theft)
+2,Router,8899,Data Center A,23755,7,1,29,74,0,Admin,1,2 (Data Breach)
+2,Server,73279,Office B,75360,5,0,84,58,28,User,1,2 (Data Breach)
+3,Laptop,35310,Data Center A,54185,6,0,52,17,41,Admin,3,0
+2,Laptop,78236,Network Room C,97673,6,1,34,76,5,User,3,1 (Malware)
+2,Router,73887,Network Room C,83488,3,0,6,87,20,User,3,1 (Malware)
+3,Router,65061,Office B,91146,0,1,53,12,11,Admin,1,0
+3,Server,84664,Network Room C,91141,2,0,50,90,8,User,2,3 (Physical Theft)
+2,Server,49744,Data Center A,26607,8,1,77,25,9,Admin,2,0
+2,Server,73550,Network Room C,47194,1,0,55,66,58,Admin,1,2 (Data Breach)
+2,Laptop,35721,Network Room C,74787,8,1,96,71,51,User,2,1 (Malware)
+1,Server,74471,Data Center A,62146,3,0,55,70,75,Admin,2,2 (Data Breach)
+2,Laptop,84605,Network Room C,14672,10,0,37,95,73,Admin,1,2 (Data Breach)
+3,Router,89962,Network Room C,31971,2,0,26,83,43,Admin,2,3 (Physical Theft)
+3,Laptop,79994,Network Room C,95396,1,0,93,77,20,Admin,3,1 (Malware)
+1,Server,95761,Network Room C,58732,10,0,89,18,12,User,3,0
+1,Router,48317,Data Center A,90473,2,0,63,62,62,User,2,3 (Physical Theft)
+2,Server,34170,Data Center A,13921,4,1,49,54,12,User,1,2 (Data Breach)
+1,Router,95334,Office B,58089,10,1,67,85,51,User,1,1 (Malware)
+1,Router,73624,Office B,63958,0,1,68,64,26,User,2,0
+1,Server,55989,Network Room C,23688,7,0,8,32,35,User,3,3 (Physical Theft)
+2,Server,69252,Network Room C,96510,3,1,11,33,34,User,2,0
+2,Laptop,51531,Office B,29080,8,0,94,57,40,Admin,2,3 (Physical Theft)
+2,Router,22805,Data Center A,91986,2,0,61,61,6,Admin,2,0
+1,Server,68338,Office B,71417,1,1,85,44,23,Admin,2,0
+1,Server,49110,Office B,67669,2,1,23,49,74,User,1,3 (Physical Theft)
+1,Router,36043,Data Center A,6944,9,0,30,84,47,Admin,2,1 (Malware)
+2,Laptop,26633,Data Center A,50033,6,0,67,41,21,Admin,3,0
+2,Router,19558,Data Center A,45934,5,1,12,18,65,User,3,3 (Physical Theft)
+1,Laptop,7955,Network Room C,63492,7,1,96,25,88,User,2,0
+2,Router,86510,Office B,71961,8,0,37,47,73,Admin,3,0
+1,Laptop,23817,Data Center A,5630,4,0,22,50,50,Admin,3,1 (Malware)
+2,Server,32547,Data Center A,64712,0,1,96,7,2,Admin,1,3 (Physical Theft)
+2,Router,14543,Data Center A,95521,1,0,99,49,59,Admin,3,2 (Data Breach)
+1,Server,95225,Network Room C,14594,0,0,68,68,14,Admin,1,1 (Malware)
+3,Server,36182,Office B,64641,1,1,19,24,12,User,1,0
+3,Server,39863,Data Center A,3156,8,1,21,94,25,Admin,2,2 (Data Breach)
+3,Router,21451,Network Room C,92846,6,0,37,53,47,Admin,1,0
+3,Router,20854,Data Center A,247,7,1,39,54,9,User,1,2 (Data Breach)
+2,Server,87073,Network Room C,12744,1,1,50,89,75,Admin,1,3 (Physical Theft)
+1,Router,13603,Office B,13365,10,1,8,26,29,Admin,3,0
+1,Laptop,8135,Office B,6419,0,1,21,50,44,Admin,2,3 (Physical Theft)
+2,Laptop,22042,Office B,9247,8,1,82,75,20,Admin,3,3 (Physical Theft)
+2,Laptop,56079,Office B,42938,5,1,46,87,75,Admin,2,0
+3,Server,54285,Network Room C,85907,0,1,95,93,45,User,3,2 (Data Breach)
+2,Router,41287,Office B,73772,2,1,81,94,77,Admin,2,1 (Malware)
+1,Router,88864,Office B,53226,6,1,44,27,6,Admin,3,2 (Data Breach)
+3,Server,58858,Data Center A,37287,10,0,14,85,3,Admin,2,2 (Data Breach)
+1,Laptop,1158,Network Room C,38557,0,1,41,74,49,User,2,2 (Data Breach)
+3,Laptop,83831,Office B,82863,0,1,98,31,84,Admin,1,2 (Data Breach)
+2,Server,95258,Office B,93343,7,1,31,58,67,Admin,3,0
+1,Server,25982,Network Room C,77823,3,0,12,32,7,User,2,2 (Data Breach)
+1,Server,15084,Data Center A,67390,10,1,62,68,24,Admin,1,1 (Malware)
+3,Server,35132,Data Center A,98812,0,1,95,40,69,Admin,1,0
+1,Server,65286,Office B,30692,9,1,87,37,76,User,3,1 (Malware)
+2,Router,30542,Data Center A,36575,6,0,61,22,96,Admin,1,0
+1,Server,13567,Network Room C,15830,7,1,10,27,6,Admin,3,1 (Malware)
+3,Laptop,94565,Office B,88967,0,0,86,44,37,User,2,1 (Malware)
+2,Router,22443,Network Room C,49294,6,0,58,99,92,User,3,1 (Malware)
+1,Laptop,77035,Office B,6923,10,0,91,73,54,Admin,2,0
+3,Router,28059,Office B,19576,2,1,80,50,93,User,2,3 (Physical Theft)
+3,Laptop,34677,Data Center A,81632,0,0,96,90,32,User,1,0
+3,Router,10125,Data Center A,71931,4,0,89,18,11,Admin,1,1 (Malware)
+3,Server,3929,Data Center A,30915,8,1,82,22,99,Admin,2,3 (Physical Theft)
+3,Server,54975,Office B,34901,4,1,68,55,74,User,2,1 (Malware)
+1,Server,70333,Data Center A,29435,5,0,74,23,78,User,2,1 (Malware)
+2,Laptop,89042,Data Center A,26116,2,0,31,92,62,User,2,1 (Malware)
+2,Router,75929,Office B,37633,1,0,88,92,47,Admin,1,3 (Physical Theft)
+2,Server,26424,Data Center A,52222,2,1,35,72,45,User,1,3 (Physical Theft)
+3,Laptop,84758,Office B,79720,8,1,74,97,91,Admin,1,1 (Malware)
+2,Router,51573,Data Center A,86694,9,0,40,66,4,Admin,2,2 (Data Breach)
+2,Server,8511,Network Room C,87014,8,0,79,45,68,Admin,3,0
+1,Router,67483,Network Room C,90817,1,1,3,61,49,User,2,1 (Malware)
+3,Router,3573,Office B,1930,1,1,80,8,51,User,2,2 (Data Breach)
+2,Server,45925,Office B,71344,7,0,38,63,91,Admin,2,1 (Malware)
+3,Server,83372,Office B,95014,5,1,7,64,43,Admin,3,1 (Malware)
+1,Server,99658,Data Center A,43805,8,1,68,14,82,User,1,1 (Malware)
+3,Laptop,59346,Data Center A,51774,0,1,73,84,77,Admin,2,3 (Physical Theft)
+1,Router,82905,Office B,99977,10,0,100,6,78,User,1,0
+2,Router,80454,Data Center A,7893,8,1,37,52,100,User,2,0
+3,Server,53229,Office B,6597,2,1,42,82,20,Admin,3,2 (Data Breach)
+1,Router,46949,Data Center A,74626,4,0,9,7,72,User,2,1 (Malware)
+2,Router,96373,Data Center A,79786,7,0,81,22,76,Admin,2,2 (Data Breach)
+3,Router,67043,Data Center A,89517,3,1,100,8,44,Admin,3,2 (Data Breach)
+2,Laptop,30998,Data Center A,16119,8,1,94,13,25,User,3,2 (Data Breach)
+3,Router,54521,Office B,91978,4,1,99,61,29,User,2,2 (Data Breach)
+2,Server,61242,Office B,10926,5,0,99,46,48,Admin,2,3 (Physical Theft)
+3,Router,73813,Network Room C,96253,3,0,54,42,38,User,1,3 (Physical Theft)
+3,Router,82906,Data Center A,49156,3,0,80,74,8,Admin,2,2 (Data Breach)
+1,Router,13460,Data Center A,10455,2,0,87,21,71,Admin,3,1 (Malware)
+2,Router,40930,Office B,41554,2,0,76,71,79,Admin,2,1 (Malware)
+3,Server,2466,Network Room C,24572,4,0,15,2,78,User,3,2 (Data Breach)
+3,Laptop,37501,Network Room C,77443,2,1,80,3,72,User,3,1 (Malware)
+1,Server,53011,Data Center A,86712,9,1,4,65,100,User,2,0
+3,Router,67522,Data Center A,84676,0,1,30,86,50,Admin,2,3 (Physical Theft)
+1,Router,62592,Data Center A,54518,1,1,26,94,36,Admin,1,1 (Malware)
+3,Server,7130,Data Center A,95202,9,1,77,56,16,Admin,2,2 (Data Breach)
+1,Server,48769,Data Center A,82527,1,0,29,24,84,User,1,0
+1,Server,79557,Data Center A,39975,0,1,29,80,23,Admin,2,3 (Physical Theft)
+3,Server,63945,Office B,66431,1,0,57,17,58,User,2,2 (Data Breach)
+2,Server,96943,Data Center A,35854,6,1,94,80,21,Admin,3,3 (Physical Theft)
+1,Router,94431,Network Room C,29535,0,0,46,44,15,Admin,1,1 (Malware)
+3,Server,11808,Network Room C,26422,7,1,29,0,1,User,3,0
+1,Server,25942,Data Center A,25126,9,0,23,41,58,Admin,3,1 (Malware)
+2,Laptop,8456,Network Room C,74619,2,0,43,24,0,User,3,0
+2,Laptop,2491,Data Center A,76201,1,0,25,13,15,Admin,1,3 (Physical Theft)
+2,Server,56368,Office B,78976,5,1,75,36,8,User,1,1 (Malware)
+2,Router,14628,Office B,7515,0,0,49,2,21,Admin,3,3 (Physical Theft)
+1,Laptop,64090,Office B,17258,2,1,100,71,31,Admin,3,1 (Malware)
+3,Server,42461,Network Room C,8650,9,0,8,16,80,User,3,3 (Physical Theft)
+2,Router,6551,Data Center A,79757,8,0,32,70,18,Admin,1,0
+3,Laptop,88803,Office B,10711,10,0,71,60,55,Admin,1,3 (Physical Theft)
+2,Router,69245,Data Center A,57435,0,0,76,56,42,User,3,3 (Physical Theft)
+1,Laptop,14695,Office B,69738,8,0,97,66,33,User,2,3 (Physical Theft)
+3,Laptop,13427,Network Room C,89242,10,1,93,46,92,Admin,2,3 (Physical Theft)
+2,Server,1800,Data Center A,18145,9,1,99,74,5,Admin,3,2 (Data Breach)
+1,Server,14222,Data Center A,32874,2,1,41,81,40,User,3,1 (Malware)
+2,Laptop,50187,Data Center A,72464,6,0,12,94,7,User,2,1 (Malware)
+3,Router,10437,Network Room C,87553,9,1,32,90,96,Admin,3,1 (Malware)
+3,Server,96818,Office B,72725,3,0,43,14,77,Admin,2,0
+1,Laptop,87933,Network Room C,56680,6,0,74,85,5,Admin,3,3 (Physical Theft)
+2,Laptop,84516,Data Center A,74982,0,0,62,99,88,User,1,1 (Malware)
+2,Laptop,51446,Network Room C,68763,9,0,68,61,27,User,2,3 (Physical Theft)
+2,Router,15398,Office B,63340,10,0,99,64,69,Admin,2,1 (Malware)
+1,Laptop,90045,Network Room C,86445,1,1,3,3,23,User,3,3 (Physical Theft)
+2,Laptop,62090,Network Room C,9425,3,0,13,8,34,Admin,2,1 (Malware)
+3,Laptop,7154,Office B,58638,7,0,8,85,13,User,3,1 (Malware)
+2,Router,60732,Office B,68260,10,0,5,17,45,User,3,3 (Physical Theft)
+2,Laptop,77945,Network Room C,92108,0,0,56,47,25,User,1,0
+2,Server,42756,Office B,63347,0,1,36,44,77,User,2,1 (Malware)
+3,Laptop,65612,Network Room C,65588,10,1,87,64,37,User,3,2 (Data Breach)
+2,Laptop,44534,Network Room C,88423,7,0,32,34,26,User,2,1 (Malware)
+2,Server,83009,Data Center A,30129,3,0,93,99,15,User,1,0
+3,Server,17099,Network Room C,93815,2,1,1,24,56,User,2,0
+3,Laptop,99355,Office B,75041,8,1,10,8,40,User,3,2 (Data Breach)
+3,Router,70183,Data Center A,75948,7,1,21,0,33,Admin,1,2 (Data Breach)
+1,Server,43906,Network Room C,78357,6,1,79,4,84,Admin,1,2 (Data Breach)
+2,Laptop,93190,Data Center A,15462,10,0,69,8,43,Admin,2,2 (Data Breach)
+1,Laptop,6608,Data Center A,69060,6,1,7,17,3,Admin,3,1 (Malware)
+1,Router,20822,Data Center A,7130,7,1,13,69,89,User,1,0
+3,Server,24081,Office B,72026,7,0,92,86,2,User,1,1 (Malware)
+2,Router,44065,Office B,25335,10,0,46,66,18,Admin,1,1 (Malware)
+3,Router,13924,Network Room C,57760,4,0,37,85,78,Admin,2,3 (Physical Theft)
+3,Router,79534,Office B,94379,7,1,53,60,69,User,1,1 (Malware)
+1,Laptop,46978,Network Room C,95519,3,0,28,91,0,Admin,3,2 (Data Breach)
+1,Router,88891,Office B,93079,1,1,45,64,78,Admin,3,1 (Malware)
+1,Server,20599,Office B,93941,0,1,92,34,49,Admin,2,2 (Data Breach)
+3,Server,13297,Data Center A,96172,9,1,77,54,12,User,1,3 (Physical Theft)
+1,Server,25465,Data Center A,31446,8,1,58,10,67,Admin,1,0
+1,Router,75384,Network Room C,39902,6,1,45,70,56,User,1,2 (Data Breach)
+1,Laptop,95851,Network Room C,6883,9,0,80,4,40,User,1,3 (Physical Theft)
+1,Router,86071,Data Center A,176,1,1,63,79,37,Admin,1,2 (Data Breach)
+1,Router,63147,Data Center A,80730,2,1,79,88,28,User,2,0
+3,Laptop,23186,Network Room C,67573,4,0,88,1,0,User,1,0
+3,Laptop,49283,Network Room C,83667,8,1,47,39,30,Admin,2,2 (Data Breach)
+2,Router,75283,Office B,24465,7,1,8,87,21,User,1,2 (Data Breach)
+2,Laptop,49657,Network Room C,84924,8,0,91,37,38,User,2,2 (Data Breach)
+1,Router,56723,Network Room C,47641,5,0,53,9,67,User,1,2 (Data Breach)
+1,Server,70858,Data Center A,88097,2,1,65,84,83,User,1,0
+3,Server,23897,Data Center A,48173,2,0,95,73,31,Admin,3,1 (Malware)
+3,Server,51043,Data Center A,98171,4,1,0,20,15,Admin,1,0
+1,Server,77245,Data Center A,69073,3,0,41,46,20,User,1,0
+3,Laptop,15402,Data Center A,13406,2,1,70,60,54,User,2,2 (Data Breach)
+3,Laptop,26097,Office B,4094,8,0,29,11,73,User,2,0
+2,Router,34857,Network Room C,76208,9,1,34,56,9,Admin,3,1 (Malware)
+3,Laptop,65659,Network Room C,45372,1,0,54,62,51,Admin,3,0
+2,Laptop,5800,Data Center A,1335,8,1,7,30,86,Admin,1,2 (Data Breach)
+2,Router,16428,Network Room C,3252,1,0,94,87,31,Admin,2,3 (Physical Theft)
+1,Router,58282,Data Center A,83935,10,0,36,95,93,User,3,1 (Malware)
+1,Router,94884,Office B,95942,5,1,68,82,4,Admin,1,3 (Physical Theft)
+2,Laptop,4597,Network Room C,65654,9,0,50,7,34,User,3,2 (Data Breach)
+3,Router,7375,Network Room C,75603,4,1,28,25,83,User,2,3 (Physical Theft)
+3,Laptop,34874,Office B,95464,4,1,74,69,97,Admin,2,3 (Physical Theft)
+1,Router,53711,Office B,72671,10,0,34,94,89,User,3,2 (Data Breach)
+3,Laptop,67944,Network Room C,70347,2,1,77,50,98,User,1,0
+1,Router,66229,Data Center A,57180,2,1,56,10,28,Admin,3,2 (Data Breach)
+3,Router,6662,Office B,58868,3,0,25,89,54,Admin,3,1 (Malware)
+2,Server,59297,Network Room C,8722,10,0,6,40,47,Admin,1,2 (Data Breach)
+2,Laptop,25454,Office B,33265,5,0,26,41,91,User,1,1 (Malware)
+3,Router,73602,Data Center A,37442,3,1,87,95,63,Admin,2,1 (Malware)
+2,Server,67593,Network Room C,89602,1,0,69,70,24,User,1,0
+3,Laptop,65383,Data Center A,83126,9,1,54,98,45,User,2,3 (Physical Theft)
+2,Router,13817,Data Center A,94043,10,1,68,100,84,User,3,1 (Malware)
+3,Router,43196,Data Center A,77970,6,0,51,10,62,User,2,3 (Physical Theft)
+3,Server,87522,Data Center A,86848,9,1,54,11,38,User,2,0
+2,Laptop,46603,Network Room C,80964,2,1,56,37,1,Admin,3,3 (Physical Theft)
+2,Router,46136,Network Room C,49151,4,0,69,8,32,Admin,1,2 (Data Breach)
+2,Server,81872,Data Center A,76820,1,0,83,86,41,User,3,0
+2,Server,94561,Data Center A,20245,9,1,17,89,52,User,3,3 (Physical Theft)
+1,Laptop,13502,Network Room C,46578,8,1,21,59,71,User,2,2 (Data Breach)
+1,Laptop,66624,Network Room C,58186,9,0,85,53,28,Admin,3,2 (Data Breach)
+1,Server,49156,Data Center A,68564,6,0,51,14,56,Admin,1,3 (Physical Theft)
+1,Router,52092,Office B,54048,3,0,36,94,74,Admin,2,3 (Physical Theft)
+2,Server,61453,Office B,84596,5,1,76,6,40,User,1,2 (Data Breach)
+2,Laptop,50538,Data Center A,82510,6,1,2,0,10,Admin,2,0
+1,Server,31256,Network Room C,73169,0,0,15,30,52,User,2,2 (Data Breach)
+3,Server,73596,Network Room C,53960,5,0,78,99,10,Admin,3,2 (Data Breach)
+2,Server,2259,Network Room C,79771,1,1,14,4,24,User,3,1 (Malware)
+3,Router,89038,Office B,46066,10,1,42,85,49,User,2,0
+2,Router,79296,Office B,49782,1,1,37,49,59,User,2,1 (Malware)
+1,Router,54963,Office B,80197,6,0,71,14,37,User,2,0
+1,Server,46254,Office B,35499,9,0,59,84,84,User,3,3 (Physical Theft)
+2,Laptop,15149,Office B,66926,1,0,53,25,71,Admin,1,3 (Physical Theft)
+3,Laptop,68615,Data Center A,88227,4,0,100,58,30,User,3,3 (Physical Theft)
+3,Server,81617,Office B,16148,8,1,73,85,26,Admin,2,1 (Malware)
+2,Router,41127,Data Center A,15345,7,1,89,13,27,User,3,0
+2,Router,56817,Network Room C,94983,3,0,67,65,74,User,1,3 (Physical Theft)
+1,Router,75606,Office B,26478,10,1,0,25,3,User,1,1 (Malware)
+2,Router,59140,Office B,97878,3,0,8,3,68,Admin,3,1 (Malware)
+3,Laptop,3168,Network Room C,92756,7,1,47,79,24,User,3,2 (Data Breach)
+1,Router,80001,Data Center A,91525,7,0,90,47,59,User,1,1 (Malware)
+2,Server,10282,Office B,40153,2,1,96,21,34,Admin,3,0
+3,Router,78136,Office B,81774,1,1,71,69,92,User,2,1 (Malware)
+3,Server,49398,Office B,18455,4,0,4,38,6,Admin,3,3 (Physical Theft)
+3,Router,68315,Office B,62805,5,1,47,22,20,Admin,2,2 (Data Breach)
+1,Router,83956,Network Room C,13508,7,0,11,12,59,User,1,3 (Physical Theft)
+3,Router,39284,Network Room C,39147,10,0,53,77,6,User,3,3 (Physical Theft)
+3,Router,44140,Data Center A,59129,9,0,19,46,73,Admin,2,2 (Data Breach)
+1,Laptop,15341,Network Room C,73462,3,0,82,96,19,User,1,3 (Physical Theft)
+3,Router,34975,Network Room C,13416,2,0,55,54,54,Admin,1,0
+3,Laptop,89704,Network Room C,44450,2,0,83,82,57,User,2,2 (Data Breach)
+2,Server,45836,Data Center A,25674,3,0,44,74,33,User,3,1 (Malware)
+1,Server,34201,Office B,1126,0,0,26,87,6,Admin,1,0
+3,Laptop,20699,Data Center A,97099,1,0,69,0,0,Admin,3,0
+3,Router,28143,Office B,82721,10,1,74,67,46,User,1,3 (Physical Theft)
+1,Server,41648,Office B,80431,6,1,31,97,76,User,1,3 (Physical Theft)
+2,Laptop,28641,Network Room C,21346,10,1,73,92,73,User,2,0
+2,Server,62267,Office B,80024,4,0,39,17,36,User,1,1 (Malware)
+3,Router,6762,Data Center A,55677,8,0,76,51,38,User,2,1 (Malware)
+3,Server,34456,Office B,23534,2,0,34,70,32,Admin,3,0
+3,Laptop,13934,Office B,888,7,0,29,41,57,User,2,0
+1,Server,86180,Office B,4693,9,0,4,97,30,User,2,0
+3,Server,82501,Network Room C,85909,7,1,75,7,48,Admin,2,1 (Malware)
+2,Laptop,85177,Network Room C,96625,3,1,4,14,50,Admin,3,2 (Data Breach)
+3,Server,68657,Office B,54133,8,0,48,55,17,Admin,1,3 (Physical Theft)
+3,Server,42909,Data Center A,21848,10,0,64,71,31,User,2,0
+2,Laptop,42794,Office B,75322,5,1,31,15,2,Admin,1,3 (Physical Theft)
+1,Server,8906,Data Center A,38121,2,0,12,48,23,Admin,3,0
+3,Router,30162,Office B,31118,3,1,19,58,20,User,3,3 (Physical Theft)
+1,Laptop,31761,Data Center A,13129,4,0,75,97,43,Admin,3,2 (Data Breach)
+1,Router,84007,Office B,79760,6,0,30,31,78,Admin,2,3 (Physical Theft)
+2,Router,34171,Data Center A,87180,1,1,40,56,46,User,2,1 (Malware)
+1,Server,80974,Office B,5196,6,0,18,86,49,Admin,1,2 (Data Breach)
+1,Laptop,92826,Office B,29924,9,0,43,21,52,Admin,3,2 (Data Breach)
+2,Server,57714,Data Center A,99589,1,1,86,5,64,Admin,2,1 (Malware)
+1,Server,8110,Network Room C,95934,7,0,88,90,52,User,2,3 (Physical Theft)
+2,Router,37319,Data Center A,31115,5,1,6,50,76,Admin,3,2 (Data Breach)
+2,Server,84294,Office B,26709,5,1,55,23,12,Admin,3,3 (Physical Theft)
+1,Router,5796,Network Room C,45223,7,1,57,53,37,User,3,3 (Physical Theft)
+3,Router,61205,Network Room C,44305,2,0,100,100,29,User,2,3 (Physical Theft)
+2,Router,6219,Network Room C,22194,6,1,87,34,77,User,2,3 (Physical Theft)
+1,Laptop,32048,Network Room C,14871,3,0,24,18,2,Admin,1,3 (Physical Theft)
+3,Server,82026,Data Center A,94052,7,1,48,33,48,Admin,1,3 (Physical Theft)
+1,Laptop,18145,Network Room C,59654,5,0,79,26,93,Admin,3,3 (Physical Theft)
+1,Server,88131,Office B,85223,5,0,64,89,55,User,2,0
+1,Laptop,93329,Office B,30369,6,1,18,4,31,User,3,2 (Data Breach)
+1,Router,49393,Network Room C,85106,5,1,30,15,79,User,3,1 (Malware)
+3,Router,94661,Network Room C,39769,4,0,69,9,67,Admin,2,2 (Data Breach)
+1,Router,93756,Data Center A,62197,7,0,61,56,97,Admin,2,2 (Data Breach)
+3,Laptop,99160,Office B,10728,5,0,27,30,93,User,2,0
+1,Laptop,56779,Data Center A,3165,2,1,68,79,34,Admin,3,3 (Physical Theft)
+3,Server,28893,Data Center A,50155,9,0,82,55,52,Admin,2,1 (Malware)
+3,Laptop,68682,Network Room C,20812,4,1,99,98,61,User,2,2 (Data Breach)
+3,Laptop,11929,Network Room C,50850,8,1,83,11,5,User,2,3 (Physical Theft)
+2,Server,13115,Office B,82878,8,1,79,90,62,Admin,3,3 (Physical Theft)
+2,Server,58040,Network Room C,30269,6,0,18,46,29,Admin,2,1 (Malware)
+1,Router,64977,Data Center A,76657,6,1,63,95,8,Admin,3,1 (Malware)
+3,Router,45355,Office B,85701,7,0,64,62,84,User,3,2 (Data Breach)
+2,Server,87817,Data Center A,11894,9,1,45,32,64,Admin,1,0
+3,Laptop,86141,Office B,29171,10,0,73,67,6,Admin,1,1 (Malware)
+2,Laptop,77758,Data Center A,80050,3,0,76,18,41,User,2,2 (Data Breach)
+1,Router,44926,Data Center A,33204,0,1,30,23,58,Admin,2,1 (Malware)
+1,Router,10222,Data Center A,7207,10,1,6,32,66,User,1,2 (Data Breach)
+1,Router,4438,Office B,14628,5,1,38,84,53,User,2,3 (Physical Theft)
+3,Router,91854,Network Room C,27846,4,0,61,52,93,User,1,0
+1,Server,30939,Office B,88747,10,0,11,99,100,User,2,3 (Physical Theft)
+3,Server,92610,Network Room C,54764,9,1,31,35,53,Admin,1,3 (Physical Theft)
+1,Router,18379,Data Center A,39319,10,0,100,13,22,User,1,3 (Physical Theft)
+1,Router,24680,Office B,75992,6,1,91,93,0,Admin,2,0
+1,Laptop,30186,Network Room C,79678,4,1,22,4,100,User,2,0
+3,Laptop,37494,Network Room C,43693,5,0,63,68,54,User,3,2 (Data Breach)
+3,Laptop,99983,Office B,81867,8,1,50,51,10,User,2,2 (Data Breach)
+1,Router,37253,Office B,74368,8,0,26,60,12,Admin,3,0
+3,Server,68054,Data Center A,31465,5,0,40,97,64,Admin,2,3 (Physical Theft)
+3,Server,66693,Office B,94143,10,0,83,21,13,User,3,2 (Data Breach)
+3,Router,25915,Data Center A,49007,6,0,58,15,56,User,3,2 (Data Breach)
+3,Laptop,44164,Office B,12131,7,1,20,59,14,Admin,1,2 (Data Breach)
+3,Server,87906,Office B,73436,3,1,24,95,97,User,1,0
+1,Router,22424,Office B,40851,7,0,39,72,70,User,1,1 (Malware)
+1,Router,26469,Office B,32561,2,0,99,87,67,Admin,1,3 (Physical Theft)
+1,Router,93587,Data Center A,84822,3,1,74,90,72,User,2,2 (Data Breach)
+2,Router,65067,Network Room C,86428,6,1,80,30,19,User,2,0
+1,Server,3042,Data Center A,52659,6,1,5,19,1,User,3,1 (Malware)
+1,Router,64559,Data Center A,50780,2,1,27,72,73,Admin,3,2 (Data Breach)
+1,Router,77666,Network Room C,43743,3,0,38,93,92,User,1,3 (Physical Theft)
+3,Server,31474,Office B,82462,10,0,43,58,50,Admin,1,2 (Data Breach)
+3,Laptop,8029,Office B,85583,1,0,49,85,69,User,1,0
+2,Router,98550,Office B,80969,9,1,24,88,85,Admin,1,3 (Physical Theft)
+2,Server,95988,Data Center A,71146,8,0,78,26,28,User,3,2 (Data Breach)
+1,Laptop,33517,Data Center A,59500,5,1,97,59,61,User,2,1 (Malware)
+2,Server,35874,Data Center A,19468,0,0,39,9,66,User,3,1 (Malware)
+1,Server,85671,Network Room C,96163,8,1,14,50,76,Admin,3,1 (Malware)
+2,Server,55326,Network Room C,46806,2,0,37,7,69,Admin,2,1 (Malware)
+1,Laptop,67854,Office B,51606,4,1,34,25,34,Admin,2,1 (Malware)
+2,Laptop,87720,Network Room C,34839,4,0,24,13,13,Admin,2,1 (Malware)
+3,Router,25231,Network Room C,55509,0,1,21,38,61,Admin,1,3 (Physical Theft)
+3,Laptop,35422,Network Room C,93799,9,1,0,59,13,Admin,1,1 (Malware)
+3,Router,44923,Data Center A,96322,9,0,62,81,2,User,3,0
+2,Laptop,74701,Data Center A,4510,3,0,15,61,35,Admin,2,0
+2,Router,67993,Network Room C,98603,8,0,22,64,58,Admin,1,0
+2,Laptop,3467,Office B,488,3,0,9,26,86,User,2,0
+1,Router,89022,Office B,47437,4,0,7,85,47,Admin,3,3 (Physical Theft)
+3,Server,2875,Network Room C,58738,7,1,73,54,37,Admin,3,1 (Malware)
+3,Laptop,67825,Network Room C,58992,1,1,46,51,18,User,2,0
+2,Server,9384,Network Room C,1415,9,0,13,42,33,User,2,1 (Malware)
+3,Laptop,7941,Network Room C,36265,0,0,66,59,80,User,3,0
+1,Laptop,95529,Network Room C,16134,9,1,53,11,98,User,1,3 (Physical Theft)
+3,Server,32876,Network Room C,59869,5,1,5,3,56,User,1,0
+1,Laptop,84755,Data Center A,93327,0,1,22,87,70,Admin,2,0
+3,Laptop,15928,Data Center A,54064,8,1,96,25,61,Admin,3,2 (Data Breach)
+1,Laptop,54880,Office B,44082,1,1,40,18,84,User,1,3 (Physical Theft)
+2,Router,68593,Data Center A,54658,9,1,79,0,75,Admin,3,3 (Physical Theft)
+1,Server,96332,Network Room C,28551,0,1,30,87,70,Admin,3,2 (Data Breach)
+3,Laptop,23398,Network Room C,82190,9,0,84,89,89,User,1,2 (Data Breach)
+3,Laptop,8880,Data Center A,3117,10,0,77,93,93,Admin,2,2 (Data Breach)
+3,Server,67858,Office B,14826,2,0,95,46,39,User,2,1 (Malware)
+1,Laptop,7745,Network Room C,58026,9,0,91,6,39,Admin,1,0
+3,Laptop,40081,Office B,81921,3,0,17,37,45,User,1,3 (Physical Theft)
+1,Server,34636,Data Center A,27453,4,1,93,36,38,Admin,1,0
+3,Server,91573,Office B,92058,5,0,21,96,58,Admin,1,3 (Physical Theft)
+2,Router,99066,Network Room C,12347,0,0,9,79,88,User,1,3 (Physical Theft)
+1,Laptop,76199,Office B,14699,4,1,24,26,25,User,2,0
+2,Router,68869,Data Center A,50668,2,0,32,59,41,User,2,1 (Malware)
+1,Server,28588,Data Center A,59017,0,1,68,62,91,Admin,1,0
+2,Laptop,51795,Office B,40900,4,1,79,30,95,Admin,1,3 (Physical Theft)
+3,Laptop,96492,Office B,65555,0,0,95,43,6,Admin,2,1 (Malware)
+3,Router,88112,Office B,1378,6,1,2,95,46,User,3,1 (Malware)
+3,Router,69696,Network Room C,12127,0,0,60,68,7,Admin,2,2 (Data Breach)
+3,Server,44943,Network Room C,78987,2,1,79,21,58,User,2,2 (Data Breach)
+3,Server,86236,Data Center A,26929,9,0,31,36,4,Admin,1,3 (Physical Theft)
+1,Server,3061,Data Center A,81041,10,1,33,14,80,User,1,0
+2,Server,22883,Data Center A,80938,1,1,48,73,19,Admin,2,1 (Malware)
+2,Laptop,6692,Data Center A,58653,8,0,14,63,42,User,3,2 (Data Breach)
+1,Router,3455,Data Center A,38238,3,1,37,15,40,Admin,2,2 (Data Breach)
+3,Laptop,28757,Network Room C,70222,6,1,2,23,51,User,3,3 (Physical Theft)
+2,Router,13395,Data Center A,29766,6,1,82,6,68,Admin,1,1 (Malware)
+2,Router,46336,Data Center A,94653,0,1,13,84,88,User,3,1 (Malware)
+2,Server,85081,Office B,20474,3,0,74,29,40,Admin,1,1 (Malware)
+2,Laptop,62259,Network Room C,90106,7,0,87,79,38,Admin,1,3 (Physical Theft)
+2,Laptop,94116,Network Room C,97420,6,0,93,16,72,Admin,1,1 (Malware)
+3,Router,81082,Office B,10040,5,1,22,31,40,User,3,2 (Data Breach)
+2,Laptop,22435,Network Room C,57112,4,1,62,75,31,Admin,2,2 (Data Breach)
+3,Laptop,17124,Network Room C,22978,4,1,9,4,25,Admin,3,2 (Data Breach)
+1,Server,14426,Office B,13020,5,0,65,76,46,Admin,3,0
+3,Server,92834,Office B,97320,6,0,91,39,67,Admin,2,2 (Data Breach)
+3,Laptop,33931,Office B,66711,10,1,63,68,88,User,1,2 (Data Breach)
+1,Server,8222,Data Center A,80247,6,1,63,84,54,Admin,3,0
+3,Router,71135,Network Room C,73778,9,1,82,56,49,User,3,0
+3,Router,10669,Data Center A,19600,2,0,71,72,79,User,2,2 (Data Breach)
+1,Laptop,96277,Network Room C,70644,5,1,89,44,34,Admin,2,3 (Physical Theft)
+2,Server,77910,Data Center A,89951,9,0,40,37,71,User,2,1 (Malware)
+1,Laptop,92693,Data Center A,50358,2,1,31,8,77,User,3,0
+3,Laptop,8976,Data Center A,33168,1,0,53,73,3,User,2,3 (Physical Theft)
+2,Server,80840,Office B,59620,10,0,21,10,23,Admin,1,2 (Data Breach)
+2,Server,74939,Data Center A,68789,9,0,60,71,88,Admin,1,3 (Physical Theft)
+3,Server,37903,Office B,28927,10,0,57,66,30,Admin,3,2 (Data Breach)
+2,Router,21072,Data Center A,60679,7,0,35,76,56,Admin,2,0
+1,Laptop,8783,Office B,74654,6,1,53,24,24,Admin,1,0
+1,Laptop,93580,Office B,85347,10,0,72,33,58,Admin,3,0
+2,Server,35057,Data Center A,39993,4,0,51,8,19,User,3,3 (Physical Theft)
+2,Server,81547,Network Room C,49924,8,0,89,32,44,Admin,3,3 (Physical Theft)
+2,Laptop,13049,Network Room C,40374,3,0,58,36,64,User,3,2 (Data Breach)
+1,Server,95417,Network Room C,3467,4,1,41,8,49,User,1,0
+1,Server,90164,Data Center A,62002,7,0,86,25,26,Admin,3,1 (Malware)
+2,Server,38844,Data Center A,13466,6,0,16,55,52,Admin,1,0
+1,Laptop,82669,Office B,90396,0,0,15,48,65,Admin,2,0
+3,Router,98460,Office B,32810,2,0,72,79,98,User,2,3 (Physical Theft)
+2,Server,45710,Network Room C,68073,1,1,89,1,38,User,2,2 (Data Breach)
+3,Laptop,76093,Data Center A,51900,4,0,36,95,3,User,3,0
+3,Server,21771,Network Room C,29758,7,1,14,12,10,Admin,2,3 (Physical Theft)
+3,Router,92239,Data Center A,9993,7,0,18,1,96,Admin,1,3 (Physical Theft)
+3,Router,94617,Network Room C,625,7,1,28,58,97,User,2,3 (Physical Theft)
+1,Router,49932,Network Room C,51877,10,1,90,32,41,User,2,1 (Malware)
+2,Server,895,Data Center A,34377,8,0,33,77,67,User,3,0
+2,Router,35079,Office B,94517,2,0,30,8,83,User,3,2 (Data Breach)
+1,Router,79952,Office B,17964,4,0,22,63,30,Admin,3,2 (Data Breach)
+3,Laptop,72666,Data Center A,63624,1,1,30,5,40,Admin,1,1 (Malware)
+2,Server,87672,Data Center A,97001,2,0,76,1,46,Admin,3,0
+1,Laptop,79938,Data Center A,23056,1,0,66,10,55,Admin,3,3 (Physical Theft)
+3,Laptop,42152,Network Room C,84633,7,0,13,86,34,User,2,0
+1,Laptop,30662,Office B,72565,8,1,51,11,90,User,2,2 (Data Breach)
+2,Laptop,65495,Data Center A,8072,3,1,28,63,62,User,3,0
+1,Laptop,85615,Network Room C,38874,10,1,70,50,32,User,3,0
+1,Router,59877,Data Center A,25594,1,1,34,50,92,Admin,2,2 (Data Breach)
+1,Router,28788,Data Center A,36727,7,0,51,40,30,Admin,2,0
+1,Server,40275,Network Room C,10536,0,1,0,86,12,Admin,1,1 (Malware)
+3,Server,63229,Office B,709,4,0,45,54,5,Admin,3,0
+2,Server,3724,Office B,37522,0,0,8,15,1,Admin,2,2 (Data Breach)
+3,Router,28585,Office B,50380,9,0,75,0,92,Admin,2,3 (Physical Theft)
+2,Server,36810,Network Room C,27638,3,1,95,83,57,User,2,2 (Data Breach)
+1,Server,80305,Network Room C,78398,2,0,82,21,98,User,3,1 (Malware)
+1,Router,98337,Data Center A,72101,4,0,28,2,43,User,2,3 (Physical Theft)
+2,Router,74391,Office B,90964,7,0,43,78,3,User,1,0
+2,Server,94040,Data Center A,79068,8,0,66,98,66,Admin,2,3 (Physical Theft)
+1,Laptop,34323,Data Center A,48669,10,0,39,19,2,Admin,2,3 (Physical Theft)
+2,Router,82429,Office B,49453,7,1,96,3,74,Admin,2,3 (Physical Theft)
+2,Router,56198,Network Room C,85984,3,0,72,60,31,Admin,3,3 (Physical Theft)
+1,Server,79072,Data Center A,94359,5,0,36,30,8,User,1,1 (Malware)
+1,Router,91536,Data Center A,15122,0,0,38,90,100,Admin,3,3 (Physical Theft)
+1,Router,54951,Data Center A,72091,10,0,43,54,38,Admin,2,1 (Malware)
+3,Server,96486,Network Room C,47264,7,0,100,33,92,User,2,0
+1,Server,60460,Data Center A,12877,10,0,96,59,68,Admin,1,3 (Physical Theft)
+2,Laptop,11152,Data Center A,79019,0,0,56,49,87,Admin,2,3 (Physical Theft)
+1,Laptop,23906,Network Room C,74929,1,1,59,48,39,Admin,1,0
+3,Router,20170,Network Room C,96405,6,1,94,44,8,Admin,3,3 (Physical Theft)
+3,Server,56049,Office B,40011,3,1,26,73,84,Admin,1,0
+1,Server,81474,Network Room C,36632,10,1,83,46,66,User,3,1 (Malware)
+1,Server,65175,Network Room C,77479,3,0,38,22,8,User,3,3 (Physical Theft)
+2,Router,5604,Network Room C,96403,2,1,16,76,16,User,2,0
+3,Server,92492,Office B,95812,10,0,92,75,22,Admin,2,2 (Data Breach)
+2,Router,50694,Data Center A,7818,3,1,39,16,26,User,3,3 (Physical Theft)
+1,Server,47969,Data Center A,35722,4,0,5,6,58,Admin,1,2 (Data Breach)
+2,Server,22309,Data Center A,81683,4,0,82,62,50,Admin,3,0
+2,Server,76806,Network Room C,90072,2,1,43,18,49,User,1,0
+2,Router,19469,Data Center A,43208,0,1,59,59,67,Admin,3,0
+2,Laptop,37717,Network Room C,6974,3,0,89,72,25,Admin,2,2 (Data Breach)
+1,Laptop,67291,Data Center A,81499,7,1,45,23,8,Admin,3,3 (Physical Theft)
+1,Server,61360,Network Room C,49609,2,1,10,47,62,User,3,0
+3,Server,48780,Office B,22065,9,0,75,12,13,User,1,0
+3,Router,57594,Network Room C,58053,10,1,54,66,66,Admin,2,0
+3,Server,90964,Network Room C,48029,0,1,70,68,31,Admin,3,2 (Data Breach)
+2,Server,63520,Data Center A,41613,6,0,15,63,20,Admin,2,0
+1,Laptop,36656,Data Center A,7742,7,0,76,15,84,Admin,2,1 (Malware)
+1,Server,24600,Office B,68369,5,0,36,42,70,User,2,0
+3,Laptop,24251,Office B,80161,0,1,86,90,48,Admin,3,0
+1,Laptop,78966,Data Center A,22216,2,1,22,87,14,User,1,3 (Physical Theft)
+2,Server,3234,Data Center A,54955,5,1,64,52,5,Admin,3,1 (Malware)
+2,Router,63696,Data Center A,83206,4,1,90,55,36,Admin,2,3 (Physical Theft)
+1,Router,18779,Data Center A,21328,10,1,82,34,3,User,3,2 (Data Breach)
+2,Router,89577,Network Room C,52649,6,0,95,93,99,Admin,1,2 (Data Breach)
+3,Laptop,84679,Office B,55958,10,0,84,71,26,User,2,1 (Malware)
+1,Router,89599,Office B,81412,8,1,9,97,51,Admin,3,0
+1,Server,37903,Data Center A,235,2,1,81,16,69,Admin,1,3 (Physical Theft)
+3,Server,11817,Network Room C,68738,7,1,21,3,4,Admin,3,1 (Malware)
+1,Server,2097,Data Center A,6306,8,1,76,42,5,Admin,3,3 (Physical Theft)
+2,Server,37442,Network Room C,3473,9,0,44,24,16,User,1,0
+1,Router,99105,Office B,95232,3,0,43,79,96,Admin,1,2 (Data Breach)
+2,Laptop,12646,Office B,67648,4,1,36,51,87,User,2,1 (Malware)
+3,Laptop,60389,Data Center A,16315,5,1,90,34,4,Admin,1,3 (Physical Theft)
+1,Router,15222,Office B,14353,8,0,32,37,59,User,1,1 (Malware)
+2,Router,33977,Office B,35093,5,0,68,61,56,Admin,2,0
+3,Laptop,13573,Office B,190,8,0,42,13,23,User,3,1 (Malware)
+3,Laptop,49715,Network Room C,4407,8,1,66,43,95,User,2,2 (Data Breach)
+2,Server,46227,Data Center A,56801,8,0,86,17,14,Admin,2,1 (Malware)
+3,Server,41716,Network Room C,6127,10,0,55,2,94,Admin,1,3 (Physical Theft)
+3,Router,281,Network Room C,35052,0,1,51,11,81,Admin,3,3 (Physical Theft)
+1,Server,29461,Data Center A,29648,9,1,42,19,92,User,1,2 (Data Breach)
+2,Router,99742,Office B,45473,10,0,31,94,33,Admin,3,3 (Physical Theft)
+1,Server,15341,Office B,99553,5,1,69,73,97,Admin,2,3 (Physical Theft)
+3,Laptop,2140,Network Room C,17798,5,0,64,94,75,User,2,1 (Malware)
+2,Server,98817,Data Center A,77753,3,1,83,84,22,User,3,1 (Malware)
+1,Laptop,24089,Office B,77962,0,0,40,23,82,User,3,1 (Malware)
+2,Router,85241,Data Center A,7056,6,1,69,28,69,Admin,1,3 (Physical Theft)
+1,Router,71297,Office B,53806,3,0,49,72,45,User,3,2 (Data Breach)
+1,Server,45928,Network Room C,70303,9,0,68,100,63,Admin,1,2 (Data Breach)
+3,Server,68947,Data Center A,62973,8,0,40,14,13,User,1,2 (Data Breach)
+2,Laptop,18816,Data Center A,51547,7,0,13,66,10,User,3,0
+3,Server,82190,Network Room C,66424,3,1,88,31,21,Admin,1,3 (Physical Theft)
+1,Server,9174,Office B,10971,6,0,30,90,94,Admin,2,0
+3,Server,75004,Network Room C,75439,10,0,5,67,31,Admin,3,3 (Physical Theft)
+1,Router,37960,Data Center A,12575,7,1,37,51,1,Admin,3,3 (Physical Theft)
+2,Router,22452,Office B,36028,5,1,4,86,48,Admin,1,2 (Data Breach)
+1,Laptop,96985,Data Center A,33827,7,1,55,81,16,User,2,0
+3,Laptop,42735,Office B,75362,5,0,22,49,50,Admin,2,0
+3,Router,77107,Data Center A,20335,1,1,18,21,85,Admin,3,0
+2,Laptop,25407,Data Center A,43730,5,1,8,21,54,Admin,3,1 (Malware)
+2,Router,73417,Network Room C,76656,3,1,61,27,99,Admin,3,2 (Data Breach)
+3,Laptop,45125,Data Center A,58163,7,0,10,41,27,Admin,2,2 (Data Breach)
+3,Server,81800,Office B,21232,2,0,14,97,16,User,3,0
+3,Router,63628,Data Center A,64116,1,0,20,25,17,Admin,2,3 (Physical Theft)
+2,Router,18709,Network Room C,22214,8,1,8,21,70,Admin,3,0
+2,Laptop,74436,Data Center A,57668,9,0,21,37,22,User,2,2 (Data Breach)
+1,Laptop,3878,Network Room C,242,9,0,88,72,44,User,2,3 (Physical Theft)
+3,Laptop,72856,Network Room C,60564,9,0,23,90,99,User,3,3 (Physical Theft)
+1,Server,260,Data Center A,92156,4,0,44,79,6,User,3,0
+2,Laptop,57371,Network Room C,44200,5,1,11,25,57,Admin,1,0
+3,Server,68228,Office B,3952,5,0,27,43,68,User,3,3 (Physical Theft)
+2,Router,49194,Office B,41136,3,0,81,84,47,User,2,0
+1,Router,31012,Network Room C,60352,2,1,51,15,98,User,2,0
+2,Laptop,99659,Data Center A,96184,2,0,43,18,32,Admin,3,3 (Physical Theft)
+1,Laptop,91832,Data Center A,3224,10,0,9,84,97,User,2,0
+3,Server,65213,Data Center A,35081,6,1,85,26,100,User,2,2 (Data Breach)
+2,Server,91914,Network Room C,5554,6,1,78,87,86,User,2,2 (Data Breach)
+2,Server,43569,Office B,90454,1,1,39,27,35,User,1,2 (Data Breach)
+2,Router,95502,Network Room C,66118,5,0,76,22,31,User,3,1 (Malware)
+1,Server,90378,Office B,15632,1,0,13,82,49,Admin,2,1 (Malware)
+2,Server,22039,Office B,28563,8,0,69,8,12,Admin,3,1 (Malware)
+3,Router,66650,Office B,3012,3,0,0,74,68,Admin,3,0
+1,Server,44174,Data Center A,30669,2,0,31,70,46,User,2,0
+2,Server,20274,Network Room C,61311,1,1,74,15,36,Admin,3,3 (Physical Theft)
+1,Server,92626,Data Center A,13724,7,1,33,95,42,User,2,1 (Malware)
+1,Server,92168,Data Center A,19382,7,1,77,44,46,User,3,3 (Physical Theft)
+2,Server,28591,Office B,21680,4,0,60,98,61,Admin,3,3 (Physical Theft)
+2,Server,38890,Office B,8381,5,0,11,85,65,User,2,0
+1,Router,32339,Office B,82690,10,0,16,32,12,Admin,1,3 (Physical Theft)
+3,Server,51208,Data Center A,94658,3,1,59,29,86,Admin,2,0
+2,Server,49627,Network Room C,7273,6,0,61,35,19,Admin,1,0
+3,Laptop,85285,Data Center A,48310,0,0,22,84,21,User,3,1 (Malware)
+3,Router,91609,Office B,80262,1,1,62,61,72,Admin,2,3 (Physical Theft)
+1,Router,78123,Office B,55234,4,1,85,12,89,User,2,1 (Malware)
+1,Laptop,44674,Data Center A,45906,2,1,8,44,58,User,1,2 (Data Breach)
+2,Server,53736,Data Center A,27969,6,0,76,52,51,Admin,1,2 (Data Breach)
+2,Router,32874,Network Room C,25143,9,0,20,69,66,User,2,1 (Malware)
+1,Router,97086,Data Center A,73072,0,0,95,61,3,Admin,3,0
+3,Server,9616,Data Center A,87284,1,1,69,76,73,User,3,1 (Malware)
+3,Laptop,71896,Office B,6635,7,1,64,9,94,User,2,3 (Physical Theft)
+2,Laptop,51864,Network Room C,9062,1,1,71,36,81,User,3,1 (Malware)
+1,Server,86765,Office B,14787,5,0,22,1,68,User,2,1 (Malware)
+2,Server,5687,Network Room C,26635,8,1,82,47,97,User,2,0
+2,Server,88291,Data Center A,51942,5,1,68,97,32,Admin,3,3 (Physical Theft)
+1,Router,83039,Data Center A,9019,7,1,82,63,86,User,2,0
+1,Router,68259,Office B,32531,1,0,51,12,2,Admin,2,2 (Data Breach)
+3,Laptop,86267,Network Room C,14763,0,1,23,36,95,User,3,2 (Data Breach)
+3,Server,78797,Network Room C,50213,8,1,20,15,20,User,1,0
+3,Server,85304,Data Center A,85536,5,1,49,32,12,User,2,1 (Malware)
+1,Laptop,90926,Office B,86189,4,0,6,50,38,User,2,3 (Physical Theft)
+2,Router,77195,Data Center A,66056,1,0,57,68,44,Admin,1,1 (Malware)
+3,Server,35821,Network Room C,56702,9,1,40,82,61,Admin,1,0
+2,Laptop,42511,Office B,55498,7,0,95,93,31,User,2,2 (Data Breach)
+2,Router,3926,Data Center A,61032,0,1,68,45,75,Admin,2,0
+1,Router,59577,Network Room C,99664,2,0,78,65,85,Admin,3,2 (Data Breach)
+1,Router,11508,Office B,90491,3,1,3,56,68,User,3,3 (Physical Theft)
+1,Server,10778,Data Center A,69038,4,0,41,29,78,User,3,1 (Malware)
+3,Router,16112,Network Room C,9240,10,1,46,41,26,Admin,1,2 (Data Breach)
+3,Laptop,94892,Data Center A,56250,8,0,18,4,21,User,3,1 (Malware)
+1,Laptop,16136,Data Center A,23284,3,0,70,83,19,User,3,1 (Malware)
+2,Laptop,38901,Data Center A,67529,10,1,50,55,8,User,1,1 (Malware)
+1,Laptop,44867,Data Center A,74079,2,0,41,25,91,Admin,1,0
+1,Laptop,28085,Office B,96591,9,1,82,64,18,User,3,3 (Physical Theft)
+3,Laptop,89956,Data Center A,77061,4,0,56,16,32,User,2,0
+3,Router,88890,Network Room C,26824,3,1,71,92,11,User,1,0
+1,Server,23745,Office B,10228,8,0,77,94,28,User,2,3 (Physical Theft)
+1,Router,4656,Network Room C,67165,5,1,98,31,58,User,3,1 (Malware)
+2,Router,70069,Network Room C,34626,6,0,36,37,9,Admin,1,2 (Data Breach)
+1,Router,59752,Office B,34332,6,1,77,93,52,User,1,3 (Physical Theft)
+2,Laptop,879,Office B,63032,10,0,37,72,39,Admin,1,2 (Data Breach)
+3,Laptop,9952,Data Center A,78795,0,1,77,11,73,User,1,2 (Data Breach)
+3,Laptop,39439,Network Room C,72752,10,0,64,99,100,Admin,2,1 (Malware)
+1,Router,76529,Office B,28258,9,1,56,77,43,User,2,3 (Physical Theft)
+3,Router,82193,Network Room C,11431,2,0,16,96,1,User,2,2 (Data Breach)
+2,Server,12980,Office B,59385,5,0,78,85,32,User,3,1 (Malware)
+2,Router,1193,Data Center A,7057,0,1,42,19,48,Admin,2,1 (Malware)
+2,Router,7380,Data Center A,93109,8,0,19,70,3,Admin,2,2 (Data Breach)
+3,Router,60938,Data Center A,71652,3,0,5,36,47,Admin,1,1 (Malware)
+1,Server,8499,Network Room C,64856,8,1,31,87,52,Admin,3,0
+2,Router,4558,Data Center A,23372,0,0,47,88,56,Admin,3,3 (Physical Theft)
+2,Router,79778,Network Room C,86245,0,1,54,57,75,Admin,1,2 (Data Breach)
+3,Server,82435,Office B,62430,10,0,80,87,70,User,2,1 (Malware)
+3,Server,14350,Office B,21898,5,1,2,98,24,User,3,2 (Data Breach)
+2,Server,68372,Office B,72426,6,1,54,41,84,Admin,2,2 (Data Breach)
+1,Router,67947,Office B,3777,3,1,50,15,87,User,1,2 (Data Breach)
+1,Laptop,63597,Network Room C,30453,6,1,95,25,82,User,1,0
+3,Router,54720,Office B,85278,4,1,87,45,12,Admin,2,0
+3,Laptop,69092,Office B,43328,0,0,31,94,3,User,1,3 (Physical Theft)
+1,Laptop,44372,Data Center A,62666,8,0,23,79,52,Admin,1,2 (Data Breach)
+2,Router,88132,Office B,82937,6,0,32,22,38,User,3,0
+3,Server,18823,Office B,2302,7,1,60,15,85,User,3,1 (Malware)
+3,Laptop,61612,Network Room C,17475,8,1,58,74,76,User,3,3 (Physical Theft)
